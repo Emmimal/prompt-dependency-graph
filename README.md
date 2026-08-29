@@ -6,7 +6,7 @@ A pure-Python dependency graph for composable LLM prompts — section-level chan
 
 Composable prompts create hidden dependencies. Change one shared block — a base policy, a tone guide, an output schema — and you don't know which of your downstream agents actually need re-testing. This library gives you two numbers for any change: the full **reachable** ceiling (everyone downstream of the component, transitively) and the narrower **candidate** set (only the nodes that declared a dependency on the specific section that changed).
 
-Read the full write-up on Towards Data Science → [Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph] (https://towardsdatascience.com/author/emmimalp.alexander/)
+Read the full write-up on Towards Data Science → [Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph](https://towardsdatascience.com/author/emmimalp.alexander/)
 
 ## What It Does
 
