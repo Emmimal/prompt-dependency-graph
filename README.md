@@ -140,7 +140,10 @@ Skip it when you have:
 
 ## Related Articles
 
-- [Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph]([#](https://towardsdatascience.com/author/emmimalp.alexander/)) — the full write-up this repo backs, including the sharing-level curve and the workflow-modeling bug caught during verification
+## Related Reading
+
+- **[The Context Window Is Lying to AI Agents — I Built a System That Knows When Context Goes Stale](https://towardsdatascience.com/author/emmimalp.alexander/)**
+- **[Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph to Find What Needs Retesting](https://towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/)**
 
 ## License
 
