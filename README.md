@@ -142,7 +142,7 @@ Skip it when you have:
 
 ## Related Reading
 
-- **[The Context Window Is Lying to AI Agents — I Built a System That Knows When Context Goes Stale](https://towardsdatascience.com/author/emmimalp.alexander/)**
+- **[Context Windows Don’t Know What’s Still True — I Built a System That Does](https://towardsdatascience.com/author/emmimalp.alexander/)**
 - **[Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph to Find What Needs Retesting](https://towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/)**
 
 ## License
